@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. Install required python3 modules in requirements.txt using pip3 installer
 
-3. Go to the installed folder and execute main.py:
+3. change directory to the installed folder and execute main.py:
 
 ***
 
