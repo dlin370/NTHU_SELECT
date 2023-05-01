@@ -25,6 +25,8 @@ Before you begin, ensure you have met the following requirements:
 
 3. You have read the instructions for using NTHU_SELECT
 
+4. The result html file has a little display defect on Safari browser ,for better experience please use Chrome !!
+
 ***
 
 ## **How to install NTHU_SELECT**
