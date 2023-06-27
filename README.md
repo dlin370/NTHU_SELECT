@@ -83,7 +83,7 @@ URL:
 2. Click any course's syllabus and copy/paste it's url to the program:
 ![Image](./README_sources/url.png)
 
-**Sample terminal input by following above instructions :**
+**Sample terminal input by above instructions :**
 
 ![Image](./README_sources/input.png)
 
